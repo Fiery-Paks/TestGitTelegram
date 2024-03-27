@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8RKJYsYm5+tHDJqKcafkdo/PonEH/0H0rmcHzuJcu7XOsu4h4ScXtV9ZgCXfX8Q907fBFdOhnfEzPSWhfxIJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\завьялова\\Desktop\\практика 24ИС\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\завьялова\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\завьялова\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
